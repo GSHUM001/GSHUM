@@ -11,6 +11,7 @@ https://github.com/GSHUM001/GSHUM/assets/169294408/182f8a5d-c8a8-4ff5-8dff-5de32
 
 
 ## Novel Pose Animation
-https://github.com/GSHUM001/GSHUM/assets/169294408/aa30cc8b-ad59-41be-865a-028e6e729095
+https://github.com/GSHUM001/GSHUM/assets/169294408/34214fc3-e4b7-40d5-842c-b84fbb96a00a
+
 
 ## VR application
