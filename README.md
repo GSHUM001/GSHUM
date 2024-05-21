@@ -1,4 +1,3 @@
-![view_0_0_orin](https://github.com/GSHUM001/GSHUM/assets/169294408/68ba398e-89dc-4374-bb37-8d68da9d8569)
 
 https://github.com/GSHUM001/GSHUM/assets/169294408/0d20db07-0d8e-4d5e-be11-00a583b9f21b
 
@@ -16,4 +15,6 @@ https://github.com/GSHUM001/GSHUM/assets/169294408/352d83b9-7f1d-492b-9e23-15225
 
 
 ## VR application
+
+https://github.com/GSHUM001/GSHUM/assets/169294408/aa7a6353-1253-44d6-b153-4d1247cd2458
 
